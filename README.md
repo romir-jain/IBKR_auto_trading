@@ -1,17 +1,13 @@
-# Next.js Trading Platform Template
+# Next.js Trading Platform
 
 A modern web application template demonstrating frontend development fundamentals using Next.js 14, TypeScript, and Supabase authentication. This project serves as an educational resource for developers learning to build full-stack web applications with a focus on trading platform interfaces.
-
-## Quick Links
-- For detailed setup instructions, refer to [my-app/README.md](./my-app/README.md)
-- For development methodology and architectural decisions, see the [docs/](./docs/) folder
 
 ## Development Philosophy
 
 This project follows a structured development approach influenced by modern AI-assisted development practices:
 
 ### 1. Research Phase (Using [ChatGPT O1 Preview](https://chatgpt.com))
-Inspired by [CJ Vinay's AI Development Workflow](https://x.com/cj_zZZz/status/1855275550547521956), our research phase involves:
+Our research phase involves:
 - Define core functionality: "I want to build a software that does x,y,z"
 - Generate Project Requirements Document (PRD)
 - Create dashboard and page layouts
@@ -78,10 +74,7 @@ IBKR_auto_proto/
 
 ## Quick Start
 
-1. Clone the repository:
-```bash
-git clone https://github.com/NG-sama/IBKR_auto_proto.git
-```
+1. Clone the repository
 
 2. Navigate to the application directory:
 ```bash
